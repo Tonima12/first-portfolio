@@ -1,0 +1,40 @@
+body {
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+/*flexiable vabe pasapasi rakhar jonno */
+section {
+    display: flex;
+}
+
+.half-weight {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-weight img {
+    width: 50%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    color: rgb(10, 2, 2);
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(image/corner.png);
+}
