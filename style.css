@@ -42,5 +42,7 @@ section {
 }
 
 .dream-big {
-    background-image: url(image/Untitled\ design.png);
+    background-image: url(image/dream.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
