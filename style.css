@@ -26,10 +26,12 @@ h2 {
 .half-weight {
     width: 50%;
     padding-left: 2%;
+    text-align: justify;
 }
 
 .half-weight img {
     width: 50%;
+    text-align: justify;
 }
 
 .link-button {
@@ -52,6 +54,7 @@ h2 {
 }
 
 .experience-area {
+
     background-image: url(image/Untitled\ design.png);
     background-repeat: no-repeat;
     background-position: left;
@@ -60,6 +63,7 @@ h2 {
 
 .shadow {
     width: 40%;
+    text-align: justify;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 20px;
@@ -71,6 +75,7 @@ h2 {
 /* akpase border dear jonno */
 #full-stack-developer {
     border-left: 7px solid tomato;
+
 }
 
 #beginar-web-developer {
